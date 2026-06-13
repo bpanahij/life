@@ -12,7 +12,7 @@
 - **Son:** Jasper Johnson (b. January 24, 2021)
 - **Daughter:** Julia Johnson (b. June 25, 2017)
 - **Dad:** Jerry Johnson (b. June 14, 1946)
-- **Mom:** Roya Johnson (b. December 28)
+- **Mom:** Roya Johnson (b. December 21)
 - **Brother:** David Johnson (b. August 29, 1979, 2 years younger) — currently living with Brian in SF, helping with Aerbits
 
 ## Residences

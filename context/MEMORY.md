@@ -24,7 +24,7 @@ Created as "Personal Assistant", then named **Percy** by Brian.
 | Julia | June 25, 2017 |
 | Jasper | January 24, 2021 |
 | Jerry (dad) | June 14, 1946 |
-| Roya (mom) | December 28 (year TBD) |
+| Roya (mom) | December 21 (year TBD) |
 | David (brother) | August 29, 1979 |
 
 ## Key Boundaries
