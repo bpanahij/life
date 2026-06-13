@@ -1,11 +1,12 @@
 # Properties
 
-A summary of all properties owned by Brian & Barbara.
+A summary of all properties owned by Brian & Barbara, with market data.
 
 ---
 
 ## 🏠 1. Primary Residence — San Francisco
 **1718 Yosemite Avenue, San Francisco, CA 94124**
+*Neighborhood: Bayview*
 
 | Detail | Info |
 |--------|------|
@@ -16,20 +17,42 @@ A summary of all properties owned by Brian & Barbara.
 | **Year Built** | 1921 |
 | **Purchased** | April 24, 2015 |
 | **Purchase Price** | **$653,000** |
-| **Current Value (Trulia)** | **~$1,147,100** |
-| **SF Market Avg** | $1,268,418 (up 2.1% YoY) |
-| **Equity (Est.)** | ~$494,000+ |
+
+### Current Valuation
+| Source | Value |
+|--------|-------|
+| Trulia Estimate | **~$1,147,100** |
+| Bayview Median | **$911,749** (down 9.6% YoY) |
+| Bayview $/sq ft | **$498** (down 8.9% YoY) |
+| SF Overall Median | $1,268,418 (up 2.1% YoY) |
+| Renovated home estimate | ~$1,147K+ (larger/updated homes in Bayview sell for $1M–$1.5M) |
+
+### Estimated Property Tax (CA Prop 13)
+- **Assessed value (est.)**: ~$812,000 ($653K × 2% annual cap for 11 years)
+- **SF tax rate**: ~1.156% (1% base + voter-approved bonds)
+- **Estimated annual tax**: **~$9,400/yr**
+- *For reference:* Median tax bill in 94124 is $6,124/yr; avg on Yosemite Ave is $7,312/yr (many properties are older w/ lower assessments)
+
+### Rental Market (Bayview)
+| Type | Monthly Rent |
+|------|-------------|
+| SF area average | $3,826/mo |
+| Bayview 2-bed house est. | **~$4,500–$5,200/mo** (Redfin estimate) |
+| Your potential rent | **$4,504–$5,173/mo** (Redfin) |
+
+### Renovated Comps
+A fully renovated 2-bed in Bayview would typically sell for **$1.0M–$1.4M**, depending on finishes and square footage. The neighborhood is experiencing a 27.5% YoY rent increase, suggesting growing demand.
 
 **Links:**
 - [Trulia](https://www.trulia.com/p/ca/san-francisco/1718-yosemite-ave-san-francisco-ca-94124--2083051546)
 - [Redfin](https://www.redfin.com/CA/San-Francisco/1718-Yosemite-Ave-94124/home/751987)
-- [Compass](https://www.compass.com/homedetails/1718-Yosemite-Ave-San-Francisco-CA-94124/845425786255392913_lid/)
 - [Google Maps](https://maps.google.com/?q=1718+Yosemite+Ave+San+Francisco+CA+94124)
 
 ---
 
 ## 🏘️ 2. Austin Duplex
 **1807 West 38th Street, Austin, TX 78731**
+*Neighborhood: Oakmont Heights*
 
 | Detail | Info |
 |--------|------|
@@ -37,22 +60,45 @@ A summary of all properties owned by Brian & Barbara.
 | **Year Built** | 1950 |
 | **Lot** | 7,087 sq ft |
 | **Unit A** | ~713 sq ft, 1 bath |
-| **Unit B Rental** | $1,375/mo |
-| **Purchased** | ~2017–2019 (confirm exact year) |
-| **Current Value (Redfin Est.)** | **~$695,582** |
+| **Unit B** | Efficiency/studio, rented at **$1,375/mo** |
+| **Total Rent Potential** | **~$2,000–$2,800/mo** (both units) |
+| **Purchased** | ~2017–2019 (verify) |
 
-A two-unit property in the Oakmont Heights neighborhood, near Bryker Woods Elementary (8/10).
+### Current Valuation
+| Source | Value |
+|--------|-------|
+| Redfin Estimate | **~$695,582** |
+| Oakmont Heights Median | **$881,690** |
+| Oakmont Heights $/sq ft | **$976** |
+
+### Estimated Property Tax (Texas)
+- **Travis County total rate**: ~2.046% (County + City of Austin + AISD)
+- **Estimated annual tax**: **~$14,200/yr** (based on current value)
+- No Prop 13 cap in Texas — assessed values can increase up to 10%/year
+- If purchased closer to 2019, the assessed value is likely lower than market
+
+### Rental Market (Oakmont Heights)
+| Type | Monthly Rent |
+|------|-------------|
+| Oakmont Heights avg | **$2,514/mo** |
+| Austin overall avg | $1,636/mo |
+| Your Unit B | **$1,375/mo** (efficiency) |
+| Unit A potential | **~$1,600–$1,800/mo** (1-bed) |
+| **Total duplex income** | **~$3,000–$3,200/mo** |
+
+### Renovated Comps
+Oakmont Heights is one of Austin's pricier neighborhoods — a renovated home here would sell for **$800K–$1.1M**, with some reaching above $1.2M for larger lots. The area is near Bryker Woods Elementary (8/10), which drives demand.
 
 **Links:**
 - [Redfin](https://www.redfin.com/TX/Austin/1807-W-38th-St-78731/home/31244528)
 - [Zillow](https://www.zillow.com/homedetails/1807-W-38th-St-Austin-TX-78731/29340195_zpid/)
 - [Google Maps](https://maps.google.com/?q=1807+W+38th+St+Austin+TX+78731)
-- [Travis CAD Property Search](https://traviscad.org/propertysearch/)
 
 ---
 
 ## 🌄 3. Santa Rosa Lot
 **2728 Rollo Road (near Bennett Ridge), Santa Rosa, CA 95404**
+*Neighborhood: Bennett Valley*
 
 | Detail | Info |
 |--------|------|
@@ -60,28 +106,65 @@ A two-unit property in the Oakmont Heights neighborhood, near Bryker Woods Eleme
 | **Size** | 1.24 acres (54,014 sq ft) |
 | **APN** | 055-220-006-000 |
 | **Zoning** | RR5 (Rural Residential) |
+| **Cross Street** | Bennett Ridge |
 | **Purchased** | April 16, 2021 |
 | **Purchase Price** | **$301,000** |
-| **Current Est. Value** | ~$248,763 (Movoto) |
-| **Assessed Value** | $742,638 (city-data — includes building valuation) |
+| **Sold by** | Jeffrey Hamilton-Gahart Tr. & Terri Hamilton-Gahart |
 
-Features gentle rolling parcel with stunning views South and East towards SF and San Pablo Bay. Mutual water, septic, and power available on site. Zoned for single-family, orchard, or potential 2nd unit.
+### Current Valuation
+| Source | Value |
+|--------|-------|
+| Movoto Estimate | **~$248,763** |
+| City Data Assessment | $742,638 *(may include erroneous building value)* |
+| Zillow (Bennett Valley) | **$1,253,830** median home value |
+| Bennett Valley $/sq ft | **$513** (for improved homes) |
+
+### Estimated Property Tax (CA Prop 13)
+- **Assessed value (est.)**: ~$332,000 ($301K × 2%/yr for 5 years)
+- **Sonoma County rate**: ~1.1%–1.4%
+- **Estimated annual tax**: **~$3,500–$4,700/yr**
+
+### Rental Market (Bennett Valley)
+| Type | Monthly Rent |
+|------|-------------|
+| Bennett Valley rentals | **$2,700–$3,500/mo** (for homes) |
+| Santa Rosa avg | ~$2,200/mo |
+| Lot potential | N/A (vacant land — no rental income) |
+
+### Building Potential
+The lot is zoned RR5 (Rural Residential), allowing:
+- Single-family home
+- Orchard
+- Potential 2nd unit
+- Mutual water, septic, power on site
+- Stunning views South/East toward SF and San Pablo Bay
+
+Homes in Bennett Valley typically sell for **$850K–$1.5M**, with the median at **$1.25M**. Building a home on this lot would cost roughly **$300–$600/sq ft** depending on finishes.
 
 **Links:**
 - [Compass (prior listing)](https://www.compass.com/homedetails/2728-Rollo-Rd-Santa-Rosa-CA-95404/550592000167413593_lid/)
 - [Coldwell Banker](https://www.coldwellbankerhomes.com/ca/santa-rosa/2728-rollo-rd/pid_36720253/)
 - [Google Maps](https://maps.google.com/?q=2728+Rollo+Rd+Santa+Rosa+CA+95404)
-- [Sonoma County Assessor](https://www.sonoma-county.org/assessor/)
 
 ---
 
 ## Portfolio Summary
 
-| Property | Purchase Price | Est. Current Value | Est. Equity |
-|----------|---------------|-------------------|-------------|
-| 🏠 SF Home (2015) | $653,000 | ~$1,147,100 | ~$494K |
-| 🏘️ Austin Duplex (~2017-19) | TBD | ~$695,582 | TBD |
-| 🌄 Santa Rosa Lot (2021) | $301,000 | ~$248,763 | ~(-$52K) |
-| **Total** | **$954K+ (excl. Austin)** | **~$2.09M** | |
+| Property | Purchased | Purchase Price | Est. Value | Est. Annual Taxes | Est. Rent Potential |
+|----------|-----------|---------------|-----------|------------------|-------------------|
+| 🏠 SF Home | Apr 2015 | $653,000 | ~$1,147,100 | ~$9,400 | $4,500–$5,200/mo |
+| 🏘️ Austin Duplex | ~2017–2019 | TBD | ~$695,582 | ~$14,200 | $3,000–$3,200/mo |
+| 🌄 Santa Rosa Lot | Apr 2021 | $301,000 | ~$248,763 | ~$4,000 | N/A |
+| **Total** | | **$954K+** | **~$2.09M** | **~$27,600/yr** | |
 
-> **Note:** Values are estimates from public sources (Trulia, Redfin, public records). Exact figures may vary. The Austin purchase price needs verification — will update when confirmed.
+### Market Context
+- **Bayview (SF)**: Prices down 9.6% YoY, but rents up 27.5% YoY — strong rental demand
+- **Oakmont Heights (Austin)**: Premium neighborhood, median $882K, strong schools
+- **Bennett Valley (Santa Rosa)**: Luxury market, median $1.25M, lot is a long-term land play
+
+> **Note:** All values are estimates from public records, Trulia, Redfin, and other public sources. Exact figures may vary. Property tax estimates use standard rates; actual bills depend on exemptions, assessments, and local bond measures.
+
+> **Data gaps:**
+> - Austin purchase price and exact year (verify)
+> - Exact assessed values from county assessors (browser unavailable for direct lookups)
+> - You can verify taxes by checking your actual tax bills or the county portals
