@@ -27,4 +27,10 @@
 ## Work
 - **Role:** Staff Software Engineer (generative AI)
 - **Company:** Tavus
+- **Salary:** ~$300,000/yr
 - **Also founder of Aerbits** (handled by Aaron, not Percy)
+
+## Household Income
+- **Brian:** ~$300,000/yr (Tavus)
+- **Barbara:** ~$350,000–$400,000/yr (Salesforce, AI agents division)
+- **Combined:** ~$650,000–$700,000/yr

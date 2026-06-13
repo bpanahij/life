@@ -62,7 +62,7 @@ A fully renovated 2-bed in Bayview would typically sell for **$1.0M–$1.4M**, d
 | **Unit A** | ~713 sq ft, 1 bath |
 | **Unit B** | Efficiency/studio, rented at **$1,375/mo** |
 | **Total Rent Potential** | **~$2,000–$2,800/mo** (both units) |
-| **Purchased** | ~2017–2019 (verify) |
+| **Purchased** | **~2017–2019 — $460,000** |
 
 ### Current Valuation
 | Source | Value |
@@ -153,9 +153,9 @@ Homes in Bennett Valley typically sell for **$850K–$1.5M**, with the median at
 | Property | Purchased | Purchase Price | Est. Value | Est. Annual Taxes | Est. Rent Potential |
 |----------|-----------|---------------|-----------|------------------|-------------------|
 | 🏠 SF Home | Apr 2015 | $653,000 | ~$1,147,100 | ~$9,400 | $4,500–$5,200/mo |
-| 🏘️ Austin Duplex | ~2017–2019 | TBD | ~$695,582 | ~$14,200 | $3,000–$3,200/mo |
+| 🏘️ Austin Duplex | ~2017–2019 | **$460,000** | ~$695,582 | ~$14,200 | $3,000–$3,200/mo |
 | 🌄 Santa Rosa Lot | Apr 2021 | $301,000 | ~$248,763 | ~$4,000 | N/A |
-| **Total** | | **$954K+** | **~$2.09M** | **~$27,600/yr** | |
+| **Total** | | **$1,414,000** | **~$2.09M** | **~$27,600/yr** | |
 
 ### Market Context
 - **Bayview (SF)**: Prices down 9.6% YoY, but rents up 27.5% YoY — strong rental demand
@@ -165,6 +165,6 @@ Homes in Bennett Valley typically sell for **$850K–$1.5M**, with the median at
 > **Note:** All values are estimates from public records, Trulia, Redfin, and other public sources. Exact figures may vary. Property tax estimates use standard rates; actual bills depend on exemptions, assessments, and local bond measures.
 
 > **Data gaps:**
-> - Austin purchase price and exact year (verify)
+> - Exact year of Austin purchase (was it 2017 or 2019?)
 > - Exact assessed values from county assessors (browser unavailable for direct lookups)
 > - You can verify taxes by checking your actual tax bills or the county portals

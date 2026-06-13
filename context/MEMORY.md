@@ -10,8 +10,9 @@ Created as "Personal Assistant", then named **Percy** by Brian.
 
 ## About Brian
 - 49 years old, lives in SF with wife Barbara (46) and kids Jasper (5) and Julia (8)
-- Staff Software Engineer (GenAI) at Tavus; Barbara is a sales exec at Salesforce (AI agents)
-- Also owns properties in Austin (duplex) and Sonoma (lot)
+- Staff Software Engineer (GenAI) at Tavus (~$300K/yr); Barbara is a sales exec at Salesforce (~$350–400K/yr)
+- Combined household income: ~$650K–$700K/yr
+- Also owns properties in Austin (duplex, bought ~$460K) and Sonoma (lot, bought $301K)
 - Kids starting Sunnyside Elementary (public) in fall 2026
 - Dad Jerry & Mom Roya in Austin; brother David living with him temporarily
 - Created personal repo: https://github.com/bpanahij/life — single source of truth for our work
