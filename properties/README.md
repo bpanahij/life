@@ -91,9 +91,9 @@ A fully renovated 2-bed in Bayview would typically sell for **$1.0M–$1.4M**, d
 |------|-------------|
 | Oakmont Heights avg | **$2,514/mo** |
 | Austin overall avg | $1,636/mo |
-| Your Unit B | **$1,375/mo** (efficiency) |
-| Unit A potential | **~$1,600–$1,800/mo** (1-bed) |
-| **Total duplex income** | **~$3,000–$3,200/mo** |
+| Unit B (back) — **most recent** | **$1,400/mo** |
+| Unit A (front) — **most recent** | **$1,950/mo** |
+| **Total duplex income** | **$3,350/mo** — both leases ended, currently vacant |
 
 ### Renovated Comps
 Oakmont Heights is one of Austin's pricier neighborhoods — a renovated home here would sell for **$800K–$1.1M**, with some reaching above $1.2M for larger lots. The area is near Bryker Woods Elementary (8/10), which drives demand.

@@ -80,10 +80,53 @@
 | Jul 2009 | $695 | |
 | Jan–Feb 2008 | $1,200–$1,250 | |
 
-### Current Rent Estimate
-- **Unit B:** $1,375/mo (current)
-- **Unit A potential:** $1,600–$1,800/mo
-- **Total potential:** **$3,000–$3,200/mo**
+### Current Rent (Most Recent)
+| Unit | Monthly Rent |
+|------|-------------|
+| **Unit B** (back, 448 sq ft) | **$1,400/mo** |
+| **Unit A** (front, 713 sq ft) | **$1,950/mo** |
+| **Total duplex income** | **$3,350/mo** |
+
+*Both leases ended — property is currently vacant while Brian & Barbara decide next steps.*
+
+---
+
+## Sell vs. Renovate Analysis
+
+### Option A: Sell As-Is
+| Metric | Value |
+|--------|-------|
+| Estimated sale price | **~$695,000** (Redfin est.) |
+| Purchase price (2018) | $460,000 |
+| **Gross gain** | **~$235,000** |
+| Minus ~6% agent fees | ~$41,700 |
+| Minus closing costs | ~$10,000–$15,000 |
+| **Net proceeds (est.)** | **~$178,000–$184,000** |
+| Capital gains tax (if not reinvested) | Up to 20% federal + state |
+
+### Option B: Renovate & Re-Rent
+Oakmont Heights is a premium neighborhood (median **$881,690**). A renovated property could command higher rent:
+
+| Scenario | Unit A Rent | Unit B Rent | Total/Month | Total/Year | Cap Rate |
+|----------|------------|------------|------------|-----------|---------|
+| Current condition re-lease | $1,950 | $1,400 | $3,350 | $40,200 | ~5.8% |
+| Light renovation (kitchen/bath refresh) | $2,200–$2,500 | $1,600–$1,800 | $3,800–$4,300 | $45,600–$51,600 | ~6.6–7.4% |
+| Full renovation ($80K–$120K) | $2,600–$3,000 | $1,800–$2,200 | $4,400–$5,200 | $52,800–$62,400 | ~7.6–9.0% |
+
+**Renovation ROI math:**
+- If $100K renovation increases value from $695K to $850K (Oakmont median)
+- Value gain: **~$155K vs $100K cost = 55% ROI**
+- Plus increased rental yield of $500–$900/mo = $6K–$11K/yr extra income
+
+### Option C: Renovate & Sell
+- Buy at $460K + $100K renovation = $560K cost basis
+- Sell at $800K–$900K (renovated comps) = **$140K–$240K profit** (before fees/taxes)
+
+### Key Considerations
+- **Texas taxes** are high (~2.2%) and rise yearly — holding costs increase over time
+- **Austin market** has cooled from 2021–2022 peak but Oakmont Heights remains premium
+- **Vacant now** = ideal time to renovate (no tenants to manage around)
+- **Bryker Woods Elementary (8/10)** drives consistent demand for this area
 
 ---
 
