@@ -56,13 +56,12 @@ A fully renovated 2-bed in Bayview would typically sell for **$1.0M–$1.4M**, d
 
 | Detail | Info |
 |--------|------|
-| **Type** | Duplex |
+| **Type** | Duplex (2 units) |
 | **Year Built** | 1950 |
 | **Lot** | 7,087 sq ft |
-| **Unit A** | ~713 sq ft, 1 bath |
-| **Unit B** | Efficiency/studio, rented at **$1,375/mo** |
-| **Total Rent Potential** | **~$2,000–$2,800/mo** (both units) |
-| **Purchased** | **~2017–2019 — $460,000** |
+| **Total Sq Ft** | **1,161 sq ft** (713 Unit A + 448 Unit B) |
+| **Exterior** | Brick (both units) |
+| **Purchased** | **August 2018 — $460,000** |
 
 ### Current Valuation
 | Source | Value |
@@ -76,6 +75,12 @@ A fully renovated 2-bed in Bayview would typically sell for **$1.0M–$1.4M**, d
 - **Estimated annual tax**: **~$14,200/yr** (based on current value)
 - No Prop 13 cap in Texas — assessed values can increase up to 10%/year
 - If purchased closer to 2019, the assessed value is likely lower than market
+
+### Unit Breakdown
+| Unit | Sq Ft | Updates | Notes |
+|------|-------|---------|-------|
+| **Unit A** | 713 | Updated 2006–2007: new AC, roof, concrete floors | Brick exterior |
+| **Unit B** | 448 | Updated 2006–2007: new roof, hardwood floors. **2023:** new window unit & water heater | Brick exterior, currently rented at **$1,375/mo** |
 
 ### Rental Market (Oakmont Heights)
 | Type | Monthly Rent |
