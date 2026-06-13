@@ -59,9 +59,13 @@ A fully renovated 2-bed in Bayview would typically sell for **$1.0M–$1.4M**, d
 | **Type** | Duplex (2 units) |
 | **Year Built** | 1950 |
 | **Lot** | 7,087 sq ft |
-| **Total Sq Ft** | **1,161 sq ft** (713 Unit A + 448 Unit B) |
+| **Total Sq Ft** | **1,161 sq ft** (713 Unit A + 448 Unit B, per tax record) |
+| **Bathrooms** | 2 (tax record), 1 per unit |
 | **Exterior** | Brick (both units) |
-| **Purchased** | **August 2018 — $460,000** |
+| **Year Built** | Unit A: 1950 / Unit B: 1952 |
+| **Purchased** | **August 2018 — $460,000** (from Roya Johnson) |
+| **2018 Tax Value** | $493,273 assessed |
+| **2017 Tax Paid** | **$10,640** |
 
 ### Current Valuation
 | Source | Value |
@@ -93,6 +97,8 @@ A fully renovated 2-bed in Bayview would typically sell for **$1.0M–$1.4M**, d
 
 ### Renovated Comps
 Oakmont Heights is one of Austin's pricier neighborhoods — a renovated home here would sell for **$800K–$1.1M**, with some reaching above $1.2M for larger lots. The area is near Bryker Woods Elementary (8/10), which drives demand.
+
+> Detailed file: [`austin-duplex.md`](./austin-duplex.md) — full tax history, unit specs, ownership history, rental data
 
 **Links:**
 - [Redfin](https://www.redfin.com/TX/Austin/1807-W-38th-St-78731/home/31244528)
@@ -158,7 +164,7 @@ Homes in Bennett Valley typically sell for **$850K–$1.5M**, with the median at
 | Property | Purchased | Purchase Price | Est. Value | Est. Annual Taxes | Est. Rent Potential |
 |----------|-----------|---------------|-----------|------------------|-------------------|
 | 🏠 SF Home | Apr 2015 | $653,000 | ~$1,147,100 | ~$9,400 | $4,500–$5,200/mo |
-| 🏘️ Austin Duplex | ~2017–2019 | **$460,000** | ~$695,582 | ~$14,200 | $3,000–$3,200/mo |
+| 🏘️ Austin Duplex **_(Roya→Brian, 2018)_** | Aug 2018 | $460,000 | ~$695,582 | **$10,921** (2018) | $3,000–$3,200/mo |
 | 🌄 Santa Rosa Lot | Apr 2021 | $301,000 | ~$248,763 | ~$4,000 | N/A |
 | **Total** | | **$1,414,000** | **~$2.09M** | **~$27,600/yr** | |
 
@@ -169,7 +175,4 @@ Homes in Bennett Valley typically sell for **$850K–$1.5M**, with the median at
 
 > **Note:** All values are estimates from public records, Trulia, Redfin, and other public sources. Exact figures may vary. Property tax estimates use standard rates; actual bills depend on exemptions, assessments, and local bond measures.
 
-> **Data gaps:**
-> - Exact year of Austin purchase (was it 2017 or 2019?)
-> - Exact assessed values from county assessors (browser unavailable for direct lookups)
-> - You can verify taxes by checking your actual tax bills or the county portals
+> **Tax record PDF saved:** `./images/austin-tax-record-2018.pdf`
