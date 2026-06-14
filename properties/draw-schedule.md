@@ -28,31 +28,35 @@
 
 ---
 
-## 🌄 Sonoma — Monthly Draw Schedule ($650K Blended: $450K HELOC + $150K Land Loan + $50K HELOC buffer)
+## 🌄 Sonoma — Monthly Draw Schedule ($650K Blended: $450K HELOC + Existing $200K Land Loan)
 
-### HELOC Portion ($500K @ 7.4%) — Funding the bulk of construction
-### Land Loan Portion ($150K @ 7.5%) — Kicks in months 5–7 when HELOC maxes
+### HELOC Portion ($450K @ 7.4%) — New draw for construction
+### Existing Land Loan ($200K @ 7.5%) — Already in place, continues through
+### Gap: ~$200K — Not yet sourced (see phasing/cash/securities options)
 
-| Month | Date | Phase | HELOC Draw | Land Loan Draw | Total Draw | Cumulative | HELOC Int.* | Land Loan Int.† | Total Int. |
-|-------|------|-------|-----------|---------------|-----------|-----------|-------------|---------------|-----------|
-| 1 | Aug '26 | Design, permits deposit | $20K | — | $20K | $20K | $62 | $0 | $62 |
-| 2 | Sep '26 | Site planning, grading | $30K | — | $30K | $50K | $213 | $0 | $213 |
-| 3 | Oct '26 | Permits, site prep | $45K | — | $45K | $95K | $431 | $0 | $431 |
-| 4 | Nov '26 | Foundation, utilities start | $70K | — | $70K | $165K | $803 | $0 | $803 |
-| 5 | Dec '26 | Foundation continues | $65K | — | $65K | $230K | $1,218 | $0 | $1,218 |
-| 6 | Jan '27 | Foundation done, home prep | $80K | — | $80K | $310K | $1,667 | $47 | $1,714 |
-| 7 | Feb '27 | Home delivery & assembly | $100K | — | $100K | $410K | $2,221 | $281 | $2,502 |
-| 8 | Mar '27 | Home tie-in, interior | $60K | — | $60K | $470K | $2,698 | $563 | $3,261 |
-| 9 | Apr '27 | Pool excavation, gunite | $30K | $40K | $70K | $540K | $2,838 | $1,031 | $3,869 |
-| 10 | May '27 | Pool decking, fencing | — | $50K | $50K | $590K | $2,775 | $1,406 | $4,181 |
-| 11 | Jun '27 | Landscaping, driveway | — | $35K | $35K | $625K | $2,775 | $1,688 | $4,463 |
-| 12 | Jul '27 | Finishing touches | — | $25K | $25K | $650K | $2,775 | $1,844 | $4,619 |
-| 13 | Aug '27 | Complete | — | — | — | $650K | $2,775 | $1,875 | $4,650 |
+**Note:** The lot has an existing $200K bank loan. The $450K HELOC funds most of the build, leaving a ~$200K gap. Below assumes the HELOC covers the full construction timeline with the existing land loan continuing. The gap would need to be phased or funded from another source.
 
-*HELOC interest: avg drawn balance × (7.4%/12). Once fully drawn ($450K) from month ~8, interest is ~$2,775/mo fixed.
-†Land loan interest: drawn balance × (7.5%/12). First draw month 6 ($75K), grows to $150K by month 9.
+| Month | Date | Phase | HELOC Draw | Total Draw | Cumulative | HELOC Int.* | Existing Loan Int.† | Total Int. |
+|-------|------|-------|-----------|-----------|-----------|-------------|-------------------|-----------|
+| 1 | Aug '26 | Design, permits deposit | $20K | $20K | $20K | $62 | $1,250 | $1,312 |
+| 2 | Sep '26 | Site planning, grading | $30K | $30K | $50K | $213 | $1,250 | $1,463 |
+| 3 | Oct '26 | Permits, site prep | $45K | $45K | $95K | $431 | $1,250 | $1,681 |
+| 4 | Nov '26 | Foundation, utilities start | $70K | $70K | $165K | $803 | $1,250 | $2,053 |
+| 5 | Dec '26 | Foundation continues | $65K | $65K | $230K | $1,218 | $1,250 | $2,468 |
+| 6 | Jan '27 | Foundation done, home prep | $80K | $80K | $310K | $1,667 | $1,250 | $2,917 |
+| 7 | Feb '27 | Home delivery & assembly | $80K | $80K | $390K | $2,159 | $1,250 | $3,409 |
+| 8 | Mar '27 | Home tie-in, interior | $60K | $60K | $450K | $2,590 | $1,250 | $3,840 |
+| 9 | Apr '27 | HELOC maxed — gap begins | — | — | $450K | $2,775 | $1,250 | $4,025 |
+| 10 | May '27 | Gap | — | — | $450K | $2,775 | $1,250 | $4,025 |
+| 11 | Jun '27 | Gap | — | — | $450K | $2,775 | $1,250 | $4,025 |
+| 12 | Jul '27 | Gap | — | — | $450K | $2,775 | $1,250 | $4,025 |
+| 13 | Aug '27 | Complete | — | — | $450K | $2,775 | $1,250 | $4,025 |
 
-**Total Sonoma interest during construction:** ~$31,986
+*HELOC interest: avg drawn balance × (7.4%/12). Caps at ~$2,775/mo once fully drawn.
+†Existing land loan interest: $200K × (7.5%/12) = $1,250/mo fixed. Continues regardless.
+
+**Total Sonoma interest during construction:** ~$47,456 (existing loan $16,250 + HELOC $31,206)
+**→ Gap of ~$200K** needs to be addressed for months 9–13 (pool, landscaping, finishes).
 
 ---
 
@@ -100,8 +104,8 @@
 |------|--------|------|------|---------|
 | Austin permanent mortgage | $1,000K | 7.0% | 30yr fixed | **$6,653** |
 | SF HELOC (interest-only) | $450K | 7.4% | IO | **$2,775** |
-| Sonoma land loan | $150K | 7.5% | 15yr amort | **$1,390** |
-| **Total monthly payments** | | | | **$10,818** |
+| Existing Sonoma land loan | $200K | 7.5% | 15yr amort | **$1,854** |
+| **Total monthly payments** | | | | **$11,282** |
 
 ### vs. Potential Rental Income
 | Property | Conservative | Moderate | Optimistic |
@@ -110,8 +114,8 @@
 | Sonoma retreat | $3,500/mo | $4,250/mo | $5,000/mo |
 | **Total** | **$9,500/mo** | **$12,250/mo** | **$15,000/mo** |
 
-**Net position:** –$1,318/mo (conservative) to +$4,182/mo (optimistic)
+**Net position:** –$1,782/mo (conservative) to +$3,718/mo (optimistic)
 
 ---
 
-*Note: All rates are estimates based on June 2026 market conditions. Actual rates depend on Fed policy, lender, and credit profile. HELOC expands to ~$450K max at 80–90% CLTV on SF home ($1.15M value, ~$450K existing 1st mortgage).*
+*Note: All rates are estimates based on June 2026 market conditions. Actual rates depend on Fed policy, lender, and credit profile. HELOC expands to ~$450K max at 80–90% CLTV on SF home ($1.15M value, ~$450K existing 1st mortgage). There is an existing ~$200K land loan on the Sonoma lot (purchased $301K in 2021). The $650K build budget has a ~$200K gap after the HELOC maxes — not yet sourced.*

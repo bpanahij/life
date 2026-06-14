@@ -130,6 +130,12 @@ Oakmont Heights is one of Austin's pricier neighborhoods — a renovated home he
 | Zillow (Bennett Valley) | **$1,253,830** median home value |
 | Bennett Valley $/sq ft | **$513** (for improved homes) |
 
+### Existing Debt
+| Item | Amount |
+|------|--------|
+| Bank loan on lot | **~$200,000** |
+| Est. lot equity | **~$50,000–$100,000** |
+
 ### Estimated Property Tax (CA Prop 13)
 - **Assessed value (est.)**: ~$332,000 ($301K × 2%/yr for 5 years)
 - **Sonoma County rate**: ~1.1%–1.4%
@@ -161,12 +167,12 @@ Homes in Bennett Valley typically sell for **$850K–$1.5M**, with the median at
 
 ## Portfolio Summary
 
-| Property | Purchased | Purchase Price | Est. Value | Est. Annual Taxes | Est. Rent Potential |
-|----------|-----------|---------------|-----------|------------------|-------------------|
-| 🏠 SF Home | Apr 2015 | $653,000 | ~$1,147,100 | ~$9,400 | $4,500–$5,200/mo |
-| 🏘️ Austin Duplex **_(Roya→Brian, 2018)_** | Aug 2018 | $460,000 | ~$695,582 | **$10,921** (2018) | $3,000–$3,200/mo |
-| 🌄 Santa Rosa Lot | Apr 2021 | $301,000 | ~$248,763 | ~$4,000 | N/A |
-| **Total** | | **$1,414,000** | **~$2.09M** | **~$27,600/yr** | |
+| Property | Purchased | Purchase Price | Est. Value | Existing Debt | Est. Annual Taxes | Est. Rent Potential |
+|----------|-----------|---------------|-----------|--------------|------------------|-------------------|
+| 🏠 SF Home | Apr 2015 | $653,000 | ~$1,147,100 | ~$550K (1st + HELOC) | ~$9,400 | $4,500–$5,200/mo |
+| 🏘️ Austin Duplex **_(Roya→Brian, 2018)_** | Aug 2018 | $460,000 | ~$695,582 | ~$350K (1st) | **$10,921** (2018) | $3,000–$3,200/mo |
+| 🌄 Santa Rosa Lot | Apr 2021 | $301,000 | ~$248,763 | **~$200K (land loan)** | ~$4,000 | N/A |
+| **Total** | | **$1,414,000** | **~$2.09M** | **~$1.1M** | **~$27,600/yr** | |
 
 ### Market Context
 - **Bayview (SF)**: Prices down 9.6% YoY, but rents up 27.5% YoY — strong rental demand

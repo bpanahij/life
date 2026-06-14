@@ -62,24 +62,18 @@ During construction (typically 12–18 months), you'd pay **interest-only** on d
 
 ---
 
-## 3. Sonoma Lot — Land Loan or SF HELOC
+## 3. Sonoma Lot — Existing Land Loan + Construction Financing
 
-**Using the SF HELOC is the cleanest path.** Expand the existing HELOC or get a new one to cover the updated **$650K budget**:
+**Updated:** The Sonoma lot is NOT free and clear — it has an ~$200K bank loan against it (~$100K equity on $301K purchase).
 
-- Higher-end manufactured home (~1,800–2,200 sq ft): ~$275K
-- Site prep, foundation, utilities, pool, landscaping: ~$375K
-- **Total: ~$650K**
+**Plan:** SF HELOC (~$450K max) to fund the Sonoma build, but this leaves a ~$200K gap on the $650K budget.
 
-**Problem:** The SF HELOC max capacity was ~$350K–$490K (at 80–90% CLTV). At $650K, the HELOC alone won't cover it.
-
-### Options to Bridge the Gap
-1. **Use Austin construction loan proceeds** to cover some Sonoma costs if phased
-2. **Small land loan** on the Sonoma lot itself (50–65% LTV on $249K lot = ~$125K–$162K)
-3. **Cash from savings** for the remaining gap
-4. **Phase the Sonoma build** — do the home first, pool later
-5. **Finance with a personal loan** or securities-backed line of credit (if you have investments)
-
-**Bottom line:** $650K is doable but needs a blended approach — HELOC maxes out around ~$450K, so you'll need another ~$200K from somewhere.
+### Options to Bridge the $200K Gap
+1. **HELOC on Austin property** — ~$100K–$125K (if allowed, but Texas restricts HELOCs to primary residences)
+2. **Personal loan or securities-backed LOC** — if you have investments
+3. **Cash from savings** — partial gap
+4. **Phase the build** — do the home first ($400K), pool later ($150K)
+5. **Consolidate into the Austin construction loan** — some lenders allow cross-collateralization
 
 ---
 
@@ -89,19 +83,18 @@ During construction (typically 12–18 months), you'd pay **interest-only** on d
 ┌──────────────────────────────┐
 │    SF Home ($1.15M)          │
 │    ┌─────────────┐           │
-│    │ Expand HELOC │◄───────  │  Sonoma Lot ($249K)
+│    │ Expand HELOC │◄───────  │  Sonoma Lot ($250K)
 │    │ to ~$450K    │          │  ┌────────────────┐
-│    │ @~7.4%       │          │  │ Manufactured   │
-│    └─────────────┘           │  │ home + pool    │
-│                              │  │ = ~~$220-385K~~ │
-│    ┌─────────────┐           │  │ = **$650K**     │
-│    │ 1st Mortgage │          │  └────────────────┘
-│    │ ~$450K       │          │  ┌────────────────┐
-│    └─────────────┘           │  │ Gap: ~$200K    │
-│                              │  │ (cash/land loan │
-│                              │  │  /phasing)     │
-│                              │  └────────────────┘
-└──────────────────────────────┘
+│    │ @~7.4%       │          │  │ Existing land  │
+│    └─────────────┘           │  │ loan: ~$200K   │
+│                              │  │                │
+│    ┌─────────────┐           │  │ Build: $650K   │
+│    │ 1st Mortgage │          │  │ ────────────── │
+│    │ ~$450K       │          │  │ HELOC: ~$450K  │
+│    └─────────────┘           │  │ Gap:  ~$200K←  │
+│                              │  │ (phase/cash/   │
+│                              │  │  securities)   │
+└──────────────────────────────┘  └────────────────┘
 
 ┌──────────────────────────────┐
 │ Austin Duplex ($695K)        │
@@ -152,31 +145,29 @@ Brian has decided to pursue **100% loans** for both projects — no cash out of 
 > **Can you get 100% on a construction loan?** Many construction lenders require 10–20% down, but with $350K+ equity in the property (existing ~$350K mortgage on $695K value = ~50% equity), that equity serves as your "down payment." Some lenders also offer 100% LTC (loan-to-cost) construction loans for strong borrowers with high credit and income.
 
 ### Sonoma — $650K (100% Financing)
-With the SF HELOC maxing at ~$450K, Brian needs an additional source to hit $650K with no cash:
+The Sonoma lot has an existing ~$200K bank loan, so a new land loan isn't available. The SF HELOC is the primary source:
 
 | Source | Est. Available | Notes |
 |--------|---------------|-------|
 | 🏠 SF HELOC (expanded) | ~$450K | Max at 80–90% CLTV on $1.15M SF home |
-| 🏘️ Austin land loan | ~$125K–$160K | 50–65% LTV on the $249K lot (owned free and clear) |
-| 💰 Personal / securities LOC | ~$50K–$100K | If you have investment portfolio |
-| **Total potential** | **$625K–$710K** | ✅ Covers $650K |
+| 💰 Gap to cover | **~$200K** | From phasing, cash, securities LOC, or rolled into Austin construction loan |
 
-> **Note:** Since the Sonoma lot is owned free and clear ($301K purchase), a land loan secured by the lot itself provides a natural 2nd source of funds without touching the Austin or SF equity.
+> **Key difference from earlier plan:** The Sonoma lot can't serve as collateral for a 2nd land loan since it already has a $200K bank loan against it. The $200K gap needs a different source.
 
 ### Combined Monthly Carrying Cost (Construction Phase)
 | Loan | Monthly Cost (Interest-Only) |
 |------|---------------------------|
 | Austin construction draws (~$550K avg) | ~$3,200–$3,700/mo |
 | SF HELOC on ~$450K | ~$2,775–$3,375/mo |
-| Sonoma land loan on ~$150K | ~$875–$1,125/mo |
-| **Total during construction** | **~$6,850–$8,200/mo** |
+| Existing Sonoma land loan (~$200K) | ~$1,250/mo |
+| **Total during construction** | **~$7,225–$8,325/mo** |
 
 ### After Conversion (Monthly Payments)
 | Loan | Monthly Cost |
 |------|-------------|
 | Austin permanent mortgage ($1M @ 7%, 30yr) | ~$6,653/mo |
 | SF HELOC ($450K @ 7.4%, interest-only) | ~$2,775/mo |
-| Sonoma land loan ($150K @ 7.5%, 15yr) | ~$1,390/mo |
-| **Total post-build** | **~$10,818/mo** |
+| Existing Sonoma land loan ($200K @ 7.5%, 15yr) | ~$1,854/mo |
+| **Total post-build** | **~$11,282/mo** |
 | Potential rental income (Austin modern + Sonoma) | $9,500–$15,000/mo |
-| **Net monthly** | **–$1,318 to +$4,182/mo** |
+| **Net monthly** | **–$1,782 to +$3,718/mo** |

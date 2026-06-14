@@ -151,7 +151,7 @@ Once both projects are complete, you'd have three properties:
 ### Financing Approach
 - **Both projects 100% financed** — no cash out of pocket
 - **Austin:** $1M construction-to-permanent loan (equity in existing property serves as down payment)
-- **Sonoma:** SF HELOC (~$450K) + land loan on lot (~$125K–$160K) blended to cover $650K
+- **Sonoma:** SF HELOC (~$450K) + existing ~$200K land loan on lot (not free and clear). Need to fill a ~$200K gap — phasing, cash, or securities LOC.
 - **Start:** August 2026
 - **Completion:** August 2027 (both)
 
