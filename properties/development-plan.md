@@ -124,6 +124,10 @@ Since the SF property is your **primary residence**, a HELOC is available:
 | Bennett Valley median (improved homes) | $1,253,830 | — |
 | Lot + manufactured home | $600K–$900K | $200K–$450K over cost |
 
+> ⚠️ **Economics are marginal.** Estimated finished value ($600K–$900K) sits well below Bennett Valley median for improved homes ($1.25M), and the spread over the $650K all-in build cost is thin once you factor in HELOC carrying cost (~7.4%), construction overruns, and the soft prefab/manufactured-home resale ceiling vs. site-built homes. A $100K cost overrun or a flat appraisal could erase the gain entirely.
+>
+> **Alternative: hold the lot as a long-term land play.** Sonoma County land in Bennett Ridge has appreciated steadily; carrying costs on a paid-down land loan are low (property tax + insurance, ~$5K–$8K/yr). Skipping the build avoids ~$650K of capital exposure, frees the SF HELOC for other uses, and preserves optionality — sell into a stronger market in 5–10 years, build later when prefab costs soften or family needs change, or pass it down. Worth seriously comparing against the build scenario before committing.
+
 ### 12-Month Phasing (Full Service Builder / Prefab) — Aug 2026 → Aug 2027
 | Phase | Months | Dates (approx) | Key Work |
 |-------|--------|---------------|----------|
@@ -132,6 +136,8 @@ Since the SF property is your **primary residence**, a HELOC is available:
 | **Prefab Home Installation** | 5–7 | Dec 2026–Feb 2027 | Factory-built modules delivered, crane set, assembly, tie-in |
 | **Pool & Hardscape** | 7–10 | Feb–May 2027 | Pool excavation, gunite, decking, fencing, driveway |
 | **Finish Out** | 10–12 | May–Aug 2027 | Landscaping, final connections, inspection, punch list |
+
+> ⚠️ **Rainy season warning:** Oct–Dec is peak rainy season in Sonoma County. Foundation pours, septic excavation, and grading are commonly delayed by saturated soils and permit-inspection backlogs during this window. **Recommendation:** shift ground/foundation work into the May–Sep dry window if possible (slide design/permitting earlier so foundation lands in summer), or add **2–3 months of weather contingency** to the schedule. As currently sequenced, foundation work falls squarely in the worst-case window.
 
 ---
 

@@ -3,6 +3,7 @@
 ## Basics
 - **Name:** Brian Johnson
 - **Age:** 49
+- **Birthday:** [Need exact date]
 - **Pronouns:** He/him
 - **Timezone:** America/Los_Angeles (US Pacific)
 - **Phone:** 415-310-4985
