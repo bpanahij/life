@@ -61,39 +61,47 @@ These builders are well-suited for a tear-down/rebuild of a modern home with poo
 
 ---
 
-## 🌄 Sonoma — Manufactured Home Dealers
+## 🌄 Sonoma — Modern Prefab / Modular Home Companies
 
-### 1. Sonoma Manufactured Homes (Petaluma)
+Brian wants **modern, sleek** — not traditional manufactured homes. These are the preferred vendors:
+
+### 1. Bevy House (Top Choice) — Custom Modular Homes
+| | |
+|---|---|
+| **Location** | Southern California (serves all CA) |
+| **Website** | https://bevyhouse.com/ |
+| **Model** | Custom modular homes, ADUs, multifamily. "Sunrise" ready-to-build design. |
+| **Vibe** | Modern, indoor-outdoor California living. Pre-engineered Modular Design System. |
+| **Why them** | CA-based, custom modular, modern aesthetic. Perfect for Sonoma lot. |
+| **Price Range** | Custom — likely $300–$500+/sq ft depending on finishes |
+
+### 2. Stillwater Dwellings — Luxury Prefab Homes
+| | |
+|---|---|
+| **Location** | Serves CA + Pacific Northwest |
+| **Website** | https://www.stillwaterdwellings.com/ |
+| **Vibe** | "Artfully designed prefabricated homes" — modern, luxury, contemporary |
+| **Why them** | High-end prefab, clean lines, good comp if Bevy doesn't work out |
+| **Price Range** | Luxury — expect $400–$600+/sq ft |
+
+### 3. Wellmade / Shed — Premium Prefab Studios (Bonus: ADU / Guest House)
+| | |
+|---|---|
+| **Location** | Serves CA |
+| **Website** | https://www.wllmd.com/shed-landing-at |
+| **Vibe** | Premium prefab sheds/studios — modern, fast, turnkey |
+| **Starting Price** | **$33,900** fully installed (taxes + delivery included) |
+| **Why them** | Property Brothers approved. 30-day turnaround. Great as a **guest house / home office / studio** on the 1.24 acre lot in addition to the main residence. |
+
+### 4. Sonoma Manufactured Homes (Petaluma) — Backup
 | | |
 |---|---|
 | **Location** | 1880 Petaluma Blvd N, Petaluma, CA 94952 |
 | **Phone** | (707) 606-3010 |
 | **Website** | https://sonomamanufacturedhomes.com/ |
-| **Services** | Full service: sales, permits, installation, finishes. Locally owned & operated, 50+ years construction experience. |
-| **Models** | Browse at https://sonomamanufacturedhomes.com/adu-models/ |
-| **Why them** | Closest to your Sonoma lot, know Sonoma County permitting inside out |
+| **Why them** | Local, know Sonoma County permitting. Backup if prefab costs too much. |
 
-### 2. FBI Manufactured Home Setup (Cotati)
-| | |
-|---|---|
-| **Location** | Cotati, CA (serving Santa Rosa + Sonoma County) |
-| **Website** | https://www.fbimanufacturedhomes.com/ |
-| **Services** | Transport, setup, installation — coordinates the whole process |
-| **Why them** | Specialize in the installation side specifically. Good for a second quote. |
-
-### 3. Hybrid Prefab Homes (Santa Rosa)
-| | |
-|---|---|
-| **Location** | 4591 Sonoma Hwy, Santa Rosa, CA 95409 |
-| **Website** | https://www.hybridprefabhomes.com/ |
-| **Services** | Manufactured homes, modular factory-built structures, hybrid modular designs |
-| **Why them** | Also local, gives you a third quote |
-
-### 4. Clayton Homes of Santa Rosa
-| | |
-|---|---|
-| **Website** | https://www.claytonhomesofnorthernca.com/ |
-| **Why them** | National brand with local presence — typically good pricing |
+> **Note:** Traditional manufactured home dealers (Clayton, FBI, Hybrid Prefab) moved to backup list — the prefab/modular approach is the preferred direction for a modern, sleek look on the 1.24 acre lot.
 
 ---
 
@@ -136,15 +144,17 @@ One closing, converts to mortgage when build is done.
 ### Tier 1 — Start This Week
 1. **Call Highline Homes** — ask for a consultation on a tear-down rebuild at 1807 W 38th
 2. **Call Sterling Custom Homes** (512-263-2214) — same ask
-3. **Call your current HELOC lender** — ask about expanding the SF HELOC for the Sonoma project
+3. **Contact Bevy House** — modern modular home for the Sonoma lot — ask about the "Sunrise" model and custom options
+4. **Call your current HELOC lender** — ask about expanding the SF HELOC for the Sonoma project
 
 ### Tier 2 — Once You Have Builder Interest
-4. Get quotes and preliminary budgets from 2–3 builders
-5. Contact **Goldwater Bank** or **RBFCU** with builder estimates to start the construction loan process
-6. Visit **Sonoma Manufactured Homes** (707-606-3010) with your lot info
+5. Get quotes and preliminary budgets from 2–3 builders for Austin
+6. Get a Bevy House quote vs. Stillwater Dwellings for Sonoma
+7. Contact **Goldwater Bank** or **RBFCU** with builder estimates to start the construction loan process
+8. Consider a **Wellmade shed** as an ADU/office on the Sonoma lot (separate from the main home)
 
 ### Tier 3 — Due Diligence
-- Verify RR5 zoning allows manufactured homes on your Rollo Rd lot (Permit Sonoma)
+- Verify RR5 zoning allows modular/prefab homes on your Rollo Rd lot (Permit Sonoma)
 - Confirm Austin zoning allows tear-down / rebuild (Oakmont Heights — should be fine)
 - Talk to an architect about what a 3-story + roof deck + pool would cost to design
 

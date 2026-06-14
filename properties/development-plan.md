@@ -81,11 +81,13 @@ A *brand new* modern 2–3 story home with pool, roof deck, and guest unit in Oa
 
 ---
 
-## 🌄 Sonoma Lot: Manufactured Home + Pool
+## 🌄 Sonoma Lot: Modern Prefab / Modular Home + Pool
 
 ### The Vision
-- Place a manufactured home on the 1.24 acre lot (2728 Rollo Rd)
+- Place a **modern prefab home** (e.g., Bevy House or Stillwater Dwellings) on the 1.24 acre lot (2728 Rollo Rd)
+- Modern, sleek design — indoor-outdoor California living
 - Add a pool
+- Optional: Wellmade shed as ADU / home office
 - Turnkey property they can use or rent out
 
 ### Financing: HELOC on SF Home
@@ -102,15 +104,16 @@ Since the SF property is your **primary residence**, a HELOC is available:
 
 | Item | Estimated Cost |
 |------|---------------|
-| Manufactured home (higher-end, ~1,800–2,200 sq ft modern) | $250K–$300K |
+| Modern prefab home (Bevy House / Stillwater, ~1,800–2,200 sq ft) | $350K–$450K |
 | Site prep, foundation, utilities (water/septic/power on site) | $80K–$100K |
 | Permits & fees (Sonoma County) | $15K–$30K |
 | Pool | $80K–$100K |
-| Landscaping, fencing, driveway, grading | $60K–$80K |
+| Landscaping, fencing, driveway, grading | $40K–$60K |
+| Optional: Wellmade shed ADU/office | $34K+ |
 | Contingency / overages (10%) | $50K–$65K |
 | **Total Budget** | **$650,000** |
 
-> *Original estimate (2025): $220K–$425K. Updated June 2026 to $650K for a higher-end build with upgraded finishes, larger home, and more extensive site work on the 1.24 acre lot.*
+> *Original estimate (2025): $220K–$425K for manufactured home. Updated June 2026 to $650K for a modern prefab home with upgraded finishes and extensive site work on the 1.24 acre lot.*
 
 ### Post-Build Value
 | Scenario | Est. Value | Gain/(Loss) |
@@ -118,12 +121,12 @@ Since the SF property is your **primary residence**, a HELOC is available:
 | Bennett Valley median (improved homes) | $1,253,830 | — |
 | Lot + manufactured home | $600K–$900K | $200K–$450K over cost |
 
-### 12-Month Phasing (Full Service Builder) — Aug 2026 → Aug 2027
+### 12-Month Phasing (Full Service Builder / Prefab) — Aug 2026 → Aug 2027
 | Phase | Months | Dates (approx) | Key Work |
 |-------|--------|---------------|----------|
-| **Design, Permitting & Site Prep** | 1–3 | Aug–Oct 2026 | Architecture, county permits, grading, foundation prep |
+| **Design, Permitting & Site Prep** | 1–3 | Aug–Oct 2026 | Architect + Bevy House design, county permits, grading, foundation prep |
 | **Foundation & Utilities** | 3–5 | Oct–Dec 2026 | Slab, septic, water, power connections |
-| **Home Installation** | 5–7 | Dec 2026–Feb 2027 | Manufactured home delivery, assembly, tie-in |
+| **Prefab Home Installation** | 5–7 | Dec 2026–Feb 2027 | Factory-built modules delivered, crane set, assembly, tie-in |
 | **Pool & Hardscape** | 7–10 | Feb–May 2027 | Pool excavation, gunite, decking, fencing, driveway |
 | **Finish Out** | 10–12 | May–Aug 2027 | Landscaping, final connections, inspection, punch list |
 
