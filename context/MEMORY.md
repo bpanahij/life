@@ -21,11 +21,11 @@ Created as "Personal Assistant", then named **Percy** by Brian.
 | Person | Birthday |
 |--------|----------|
 | Brian | 49 y/o (need exact date) |
-| Barbara Tassas | June 18, 1982 |
+| Barbara Tassa | June 18, 1982 |
 | Julia | June 25, 2017 |
 | Jasper | January 24, 2021 |
 | Jerry (dad) | June 14, 1946 |
-| Roya (mom) | December 21 (year TBD) |
+| Roya (mom) | November 30, 1950 (legacy birthday Dec 22) |
 | David (brother) | August 29, 1979 |
 
 ## Key Boundaries

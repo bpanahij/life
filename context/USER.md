@@ -8,11 +8,11 @@
 - **Phone:** 415-310-4985
 
 ## Family
-- **Wife:** Barbara Tassas (46, b. June 18, 1982) — Sales executive at Salesforce (AI agents division)
+- **Wife:** Barbara Tassa (46, b. June 18, 1982) — Sales executive at Salesforce (AI agents division)
 - **Son:** Jasper Johnson (b. January 24, 2021)
 - **Daughter:** Julia Johnson (b. June 25, 2017)
 - **Dad:** Jerry Johnson (b. June 14, 1946)
-- **Mom:** Roya Johnson (b. December 21)
+- **Mom:** Roya Johnson (b. November 30, 1950; legacy birthday Dec 22)
 - **Brother:** David Johnson (b. August 29, 1979, 2 years younger) — currently living with Brian in SF, helping with Aerbits
 
 ## Residences
