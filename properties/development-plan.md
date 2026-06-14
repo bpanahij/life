@@ -8,8 +8,10 @@ A strategic plan for redeveloping the Austin duplex and Sonoma lot into a portfo
 
 | Property | Plan | Est. Investment | Est. Timeline | Builder Type | Financing |
 |----------|------|----------------|--------------|-------------|-----------|
-| 🏘️ Austin Duplex | Tear-down → 3-story modern home + 2nd unit + pool | **$1,000,000** | **12 months** (Aug 2026–Aug 2027) | Full service builder | **100% loan** |
+| 🏘️ Austin Duplex | Tear-down → 3-story modern home + 2nd unit + pool | **$1,000,000** | **14–18 months** (Aug 2026–~early 2028) | Full service builder | **100% loan** |
 | 🌄 Sonoma Lot | Manufactured home + pool | **$650,000** | **12 months** (Aug 2026–Aug 2027) | Full service builder | **100% loan** |
+
+> **Timeline note:** Austin permitting typically takes 3–6 months in Oakmont Heights (was assumed at 3 in original plan). Total Austin timeline adjusted to 14–18 months to reflect realistic permitting variance.
 | 🏠 SF Home | Source of HELOC for Sonoma project | N/A | N/A | N/A | N/A |
 
 ---
@@ -63,21 +65,22 @@ A *brand new* modern 2–3 story home with pool, roof deck, and guest unit in Oa
 | Est. remaining mortgage (2018 purchase) | ~$330,000–$350,000 |
 | Current equity | ~$345,000–$365,000 |
 | Tear-down + construction (full service builder) | ~$1,000,000 |
-| **Total investment** | **~$1,460,000** |
+| Builder's risk insurance | $10K–$15K |
+| **Total investment** | **~$1,470,000–$1,475,000** |
 | Estimated finished value | **$1.2M–$2.2M** |
 | **Net position** | **–$260K to +$740K** |
 
 > **Rental income potential** after rebuild: $6,000–$10,000/mo (luxury rental in Oakmont Heights)
 
-### 12-Month Phasing (Full Service Builder) — Aug 2026 → Aug 2027
+### 14–18 Month Phasing (Full Service Builder) — Aug 2026 → late 2027 / early 2028
 | Phase | Months | Dates (approx) | Key Work |
 |-------|--------|---------------|----------|
-| **Design & Permitting** | 1–3 | Aug–Oct 2026 | Architecture, engineering, tear-down permit, site plan |
-| **Demo** | 3–4 | Oct–Nov 2026 | Tear down existing duplex, site prep |
-| **Foundation** | 4–6 | Nov 2026–Jan 2027 | Slab / foundation, underground utilities |
-| **Framing** | 6–8 | Jan–Mar 2027 | Structure, roof, windows |
-| **MEP & Interior** | 8–11 | Mar–Jun 2027 | Mechanical, electrical, plumbing, drywall, finishes, pool shell |
-| **Final Trim & Pool** | 11–12 | Jun–Aug 2027 | Pool finishing, landscaping, driveway, punch list |
+| **Design & Permitting** | 1–6 | Aug 2026–Jan 2027 | Architecture, engineering, tear-down permit, site plan (Austin permitting typically 3–6 months) |
+| **Demo** | 6–7 | Jan–Feb 2027 | Tear down existing duplex, site prep |
+| **Foundation** | 7–9 | Feb–Apr 2027 | Slab / foundation, underground utilities |
+| **Framing** | 9–11 | Apr–Jun 2027 | Structure, roof, windows |
+| **MEP & Interior** | 11–15 | Jun–Oct 2027 | Mechanical, electrical, plumbing, drywall, finishes, pool shell |
+| **Final Trim & Pool** | 15–18 | Oct 2027–Feb 2028 | Pool finishing, landscaping, driveway, punch list |
 
 ---
 
@@ -163,6 +166,24 @@ Once both projects are complete, you'd have three properties:
 2. **Get a HELOC** on the SF property for the Sonoma project
 3. **Research builders** in Austin (Oakmont Heights) and Sonoma County
 4. **Verify zoning** on the Sonoma lot (RR5 — confirm manufactured homes are permitted)
+
+---
+
+## Tax Considerations
+
+- **1031 exchange option for Austin** — instead of tearing down, sell the duplex as-is and 1031 the proceeds into a like-kind investment property to defer capital gains. Worth comparing against tear-down economics if the duplex has appreciated significantly.
+- **Depreciation recapture exposure** — any years the Austin duplex was rented generated depreciation deductions. On sale, recapture is taxed at up to 25%. Pull historical Schedule E / depreciation schedules before deciding sell vs. rebuild.
+- **Section 280A personal-use limits** — if Sonoma is used as a weekend getaway *and* rented, personal use must stay under 14 days/year (or 10% of rental days) to keep it classified as a rental property. Otherwise deductions get limited and it's treated as a personal residence for tax purposes.
+- **Qualified Opportunity Zone check** — verify whether the Austin lot (Oakmont Heights) is in a designated QOZ. If it is, structuring the rebuild through a Qualified Opportunity Fund could defer/reduce capital gains from other investments rolled in.
+
+## Exit Scenarios
+
+Triggers that should pause, downsize, or abandon the plan:
+
+- **Rates rise >1% from current** → pause Sonoma, finish Austin only. Higher carrying cost on the construction loan makes the second project too risky to run in parallel.
+- **Any single project goes >20% over budget** → stop work and sell as-is (land + partial improvements). Better to take a known loss than chase sunk costs into a runaway build.
+- **Household income drops significantly** (job loss, business slowdown) → sell Austin land as an entitled lot (permits + plans add value), keep Sonoma lot raw and unimproved. Preserves optionality on Sonoma without ongoing carrying costs.
+- **Decision gate — Austin foundation costs exceed estimate by 25%** → stop and re-evaluate the entire Austin scope. Foundation overruns are the leading indicator of bigger structural/site problems and almost always cascade into framing and MEP overruns.
 
 ---
 
