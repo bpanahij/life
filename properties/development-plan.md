@@ -6,11 +6,11 @@ A strategic plan for redeveloping the Austin duplex and Sonoma lot into a portfo
 
 ## Overview
 
-| Property | Plan | Est. Investment | Est. Timeline |
-|----------|------|----------------|--------------|
-| 🏘️ Austin Duplex | Tear-down → 3-story modern home + 2nd unit + pool | ~$1,000,000 | 12–18 months |
-| 🌄 Sonoma Lot | Manufactured home + pool | ~$200K–$400K | 6–12 months |
-| 🏠 SF Home | Source of HELOC for Sonoma project | N/A | N/A |
+| Property | Plan | Est. Investment | Est. Timeline | Builder Type | Financing |
+|----------|------|----------------|--------------|-------------|-----------|
+| 🏘️ Austin Duplex | Tear-down → 3-story modern home + 2nd unit + pool | **$1,000,000** | **12 months** (Aug 2026–Aug 2027) | Full service builder | **100% loan** |
+| 🌄 Sonoma Lot | Manufactured home + pool | **$650,000** | **12 months** (Aug 2026–Aug 2027) | Full service builder | **100% loan** |
+| 🏠 SF Home | Source of HELOC for Sonoma project | N/A | N/A | N/A | N/A |
 
 ---
 
@@ -25,14 +25,14 @@ A strategic plan for redeveloping the Austin duplex and Sonoma lot into a portfo
   - Nice driveway, front fence, landscaping
 - **Total budget: ~$1,000,000**
 
-### What $1M Builds in Austin
+### What $1M Builds in Austin (Full Service Builder)
 | Construction Type | Cost/sq ft | Typical Size for $1M |
 |------------------|-----------|---------------------|
-| Semi-custom | $225–$325/sq ft | 3,000–4,400 sq ft |
-| Full custom | $325–$500/sq ft | 2,000–3,000 sq ft |
-| Luxury custom | $500–$1,000+ sq ft | 1,000–2,000 sq ft |
+| Semi-custom (full service) | $250–$350/sq ft | 2,850–4,000 sq ft |
+| Full custom (full service) | $350–$550/sq ft | 1,800–2,850 sq ft |
+| Luxury custom (full service) | $550–$1,000+ sq ft | 1,000–1,800 sq ft |
 
-At luxury custom level ($500/sq ft), $1M builds ~2,000 sq ft. At semi-custom, you could get 3,500+ sq ft.
+At full service pricing with a 12-month timeline, figure ~$350–$450/sq ft for a modern build = ~2,200–2,850 sq ft including the 2nd unit and pool.
 
 ### Estimated Post-Build Value
 **Oakmont Heights** median home value: **$881,690**
@@ -62,12 +62,22 @@ A *brand new* modern 2–3 story home with pool, roof deck, and guest unit in Oa
 | Current property value | ~$695,000 |
 | Est. remaining mortgage (2018 purchase) | ~$330,000–$350,000 |
 | Current equity | ~$345,000–$365,000 |
-| Tear-down + construction | ~$1,000,000 |
+| Tear-down + construction (full service builder) | ~$1,000,000 |
 | **Total investment** | **~$1,460,000** |
 | Estimated finished value | **$1.2M–$2.2M** |
 | **Net position** | **–$260K to +$740K** |
 
 > **Rental income potential** after rebuild: $6,000–$10,000/mo (luxury rental in Oakmont Heights)
+
+### 12-Month Phasing (Full Service Builder) — Aug 2026 → Aug 2027
+| Phase | Months | Dates (approx) | Key Work |
+|-------|--------|---------------|----------|
+| **Design & Permitting** | 1–3 | Aug–Oct 2026 | Architecture, engineering, tear-down permit, site plan |
+| **Demo** | 3–4 | Oct–Nov 2026 | Tear down existing duplex, site prep |
+| **Foundation** | 4–6 | Nov 2026–Jan 2027 | Slab / foundation, underground utilities |
+| **Framing** | 6–8 | Jan–Mar 2027 | Structure, roof, windows |
+| **MEP & Interior** | 8–11 | Mar–Jun 2027 | Mechanical, electrical, plumbing, drywall, finishes, pool shell |
+| **Final Trim & Pool** | 11–12 | Jun–Aug 2027 | Pool finishing, landscaping, driveway, punch list |
 
 ---
 
@@ -88,21 +98,34 @@ Since the SF property is your **primary residence**, a HELOC is available:
 | Max HELOC (80% LTV) | **$450K–$550K available** |
 | HELOC rate (June 2026) | ~7.43% avg (6.75%–12.25% range) |
 
-### Manufactured Home Costs
+### Updated Budget (June 2026) — $650K
+
 | Item | Estimated Cost |
 |------|---------------|
-| Manufactured home (1,200–1,800 sq ft, modern) | $100K–$200K |
-| Site prep, foundation, utilities (water/septic/power on site) | $40K–$80K |
-| Permits & fees (Sonoma County) | $10K–$25K |
-| Pool | $50K–$80K |
-| Landscaping & fencing | $20K–$40K |
-| **Total** | **$220K–$425K** |
+| Manufactured home (higher-end, ~1,800–2,200 sq ft modern) | $250K–$300K |
+| Site prep, foundation, utilities (water/septic/power on site) | $80K–$100K |
+| Permits & fees (Sonoma County) | $15K–$30K |
+| Pool | $80K–$100K |
+| Landscaping, fencing, driveway, grading | $60K–$80K |
+| Contingency / overages (10%) | $50K–$65K |
+| **Total Budget** | **$650,000** |
+
+> *Original estimate (2025): $220K–$425K. Updated June 2026 to $650K for a higher-end build with upgraded finishes, larger home, and more extensive site work on the 1.24 acre lot.*
 
 ### Post-Build Value
 | Scenario | Est. Value | Gain/(Loss) |
 |----------|-----------|------------|
 | Bennett Valley median (improved homes) | $1,253,830 | — |
 | Lot + manufactured home | $600K–$900K | $200K–$450K over cost |
+
+### 12-Month Phasing (Full Service Builder) — Aug 2026 → Aug 2027
+| Phase | Months | Dates (approx) | Key Work |
+|-------|--------|---------------|----------|
+| **Design, Permitting & Site Prep** | 1–3 | Aug–Oct 2026 | Architecture, county permits, grading, foundation prep |
+| **Foundation & Utilities** | 3–5 | Oct–Dec 2026 | Slab, septic, water, power connections |
+| **Home Installation** | 5–7 | Dec 2026–Feb 2027 | Manufactured home delivery, assembly, tie-in |
+| **Pool & Hardscape** | 7–10 | Feb–May 2027 | Pool excavation, gunite, decking, fencing, driveway |
+| **Finish Out** | 10–12 | May–Aug 2027 | Landscaping, final connections, inspection, punch list |
 
 ---
 
@@ -117,6 +140,20 @@ Once both projects are complete, you'd have three properties:
 | 🏘️ **Austin Modern** | Vacation / work / rent | $6,000–$10,000/mo | $1.2M–$2.2M |
 | 🌄 **Sonoma Retreat** | Weekend getaway / rent | $3,500–$5,000/mo | $600K–$900K |
 | **Total** | **Move between as desired** | **$14K–$20K/mo potential** | **$3M–$4.2M** |
+
+### Total Capital Required
+| Project | Budget |
+|---------|--------|
+| 🏘️ Austin rebuild | **$1,000,000** |
+| 🌄 Sonoma manufactured home + pool | **$650,000** |
+| **Total** | **$1,650,000** |
+
+### Financing Approach
+- **Both projects 100% financed** — no cash out of pocket
+- **Austin:** $1M construction-to-permanent loan (equity in existing property serves as down payment)
+- **Sonoma:** SF HELOC (~$450K) + land loan on lot (~$125K–$160K) blended to cover $650K
+- **Start:** August 2026
+- **Completion:** August 2027 (both)
 
 ### Next Steps
 1. **Talk to a lender** about a construction-to-permanent loan for Austin
