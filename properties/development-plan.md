@@ -142,7 +142,7 @@ Once both projects are complete, you'd have three properties:
 | 🏠 **SF Home** | Primary residence or rent | $4,500–$5,200/mo | $1.15M |
 | 🏘️ **Austin Modern** | Vacation / work / rent | $6,000–$10,000/mo | $1.2M–$2.2M |
 | 🌄 **Sonoma Retreat** | Weekend getaway / rent | $3,500–$5,000/mo | $600K–$900K |
-| **Total** | **Move between as desired** | **$14K–$20K/mo potential** | **$3M–$4.2M** |
+| **Total** | **Move between as desired** | **$14K–$20K/mo potential** | **$2.95M–$4.25M** |
 
 ### Total Capital Required
 | Project | Budget |

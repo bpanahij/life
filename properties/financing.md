@@ -18,9 +18,9 @@ Credit scores ~780 (Brian) and similar/higher (Barb). Existing $100K HELOC on SF
 | Max at 80% CLTV (standard) | $917,680 |
 | **Remaining capacity** | **~$350K–$380K** |
 | Max at 90% CLTV (some lenders) | $1,032,390 |
-| **Remaining capacity at 90%** | **~$462K–$492K** |
+| **Remaining capacity at 90%** | **~$450K–$490K** |
 
-With 780 credit and $650K+ income, you could likely **expand or replace** the existing HELOC with a larger one — enough to fully fund the Sonoma project ($220K–$425K) with room left over.
+With 780 credit and $650K+ income, you could likely **expand or replace** the existing HELOC with a larger one — enough to cover most of the Sonoma project ($650K) with a manageable gap.
 
 **That leaves the Sonoma lot covered by the SF HELOC.** ✅
 

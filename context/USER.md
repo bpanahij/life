@@ -17,8 +17,8 @@
 
 ## Residences
 - **Primary:** 1718 Yosemite Avenue, San Francisco (bought 2015)
-- **Austin, TX:** 1807 West 38th Street — a duplex (bought ~2017–2019)
-- **Sonoma/Santa Rosa:** Lot on Rolo Road & Bennett Ridge
+- **Austin, TX:** 1807 West 38th Street — a duplex (bought August 2018)
+- **Sonoma/Santa Rosa:** Lot on Rollo Road & Bennett Ridge
 
 ## Kids' School
 - **Fall 2026:** Both kids start at Sunnyside Elementary School (public), San Francisco
