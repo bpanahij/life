@@ -20,7 +20,7 @@ Created as "Personal Assistant", then named **Percy** by Brian.
 ## Family Birthdays 📅
 | Person | Birthday |
 |--------|----------|
-| Brian | **NEEDS EXACT DATE** (currently 49 y/o — ask Brian to confirm) |
+| Brian | December 11, 1976 |
 | Barbara Tassa | June 18, 1982 |
 | Julia | June 25, 2017 |
 | Jasper | January 24, 2021 |
