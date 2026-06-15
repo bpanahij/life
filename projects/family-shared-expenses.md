@@ -219,23 +219,23 @@ See [properties/financing.md](../properties/financing.md) for full detail. Summa
 
 | Loan | Lender / Type | Est. Monthly | Auto-pay From |
 |------|--------------|-------------|---------------|
-| SF 1st mortgage | Existing 1st on 1718 Yosemite (~$450K) | ~$3,000/mo | Joint checking |
+| SF 1st mortgage | Existing 1st on 1718 Yosemite (~$450K) | ~$2,100/mo | Joint checking |
 | SF HELOC (existing $100K, expanding to ~$450K) | HELOC, interest-only | ~$2,775–$3,375/mo | Joint checking |
-| Austin existing mortgage (~$350K) | Conventional | ~$2,300/mo | Joint checking |
+| Austin existing mortgage (~$350K) | Conventional | ~$1,850/mo | Joint checking |
 | Austin construction loan (~$550K avg drawn) | Construction-to-perm, interest-only | ~$3,200–$3,700/mo | Joint checking |
 | Sonoma land loan (~$200K existing) | Bank land loan | ~$1,250/mo | Joint checking |
-| **Total during construction** | | **~$12,525–$13,625/mo** | |
+| **Total during construction** | | **~$11,175–$12,275/mo** | |
 
 ### After Construction Converts
 
 | Loan | Est. Monthly |
 |------|-------------|
-| SF 1st mortgage | ~$3,000/mo |
+| SF 1st mortgage | ~$2,100/mo |
 | SF HELOC ($450K @ 7.4%, interest-only) | ~$2,775/mo |
-| Austin existing mortgage | ~$2,300/mo |
+| Austin existing mortgage | ~$1,850/mo |
 | Austin permanent ($1M @ 7%, 30yr) | ~$6,653/mo (replaces construction loan) |
 | Sonoma land loan ($200K @ 7.5%, 15yr amortized) | ~$1,854/mo |
-| **Total post-build** | **~$16,582/mo** |
+| **Total post-build** | **~$15,232/mo** |
 
 Rental income from the Austin rebuild and Sonoma units should offset $9,500–$15,000/mo of this. Net out-of-pocket post-conversion: roughly $1,500–$7,000/mo.
 
